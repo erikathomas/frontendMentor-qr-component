@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/erikathomas/frontendMentor-qr-component)
+- Solution URL: [https://github.com/erikathomas/frontendMentor-qr-component](https://github.com/erikathomas/frontendMentor-qr-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -63,4 +63,3 @@ I´m impressed by everything that is possible with flexbox, so I want to keep le
 ## Author
 
 - Frontend Mentor - [@erikathomas](https://www.frontendmentor.io/profile/erikathomas)
-- Twitter - [@erika_thomas](https://twitter.com/Erika_Thomas)
